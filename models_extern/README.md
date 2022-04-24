@@ -9,3 +9,8 @@ E3D V6 CAD Models - E3D V6 HotEnd CAD Models (Includes all 3 versions)
 5015_Blower_Fan.stl - https://www.thingiverse.com/thing:1576438/files
                       5015 Blower Fan 50x15 byjimustanguitaris licensed under the
                       Creative Commons - Attributionlicense.
+
+3DTouch.stl/.step - https://www.thingiverse.com/thing:4685516/files
+                    3DTouch model (STEP) by Leolissis
+                    licensed under the
+                    Creative Commons - Attribution - Non-Commerciallicense.
