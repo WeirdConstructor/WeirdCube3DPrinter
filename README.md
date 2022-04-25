@@ -3,7 +3,13 @@ WeirdCube 3D Printer
 
 This will be the project documentation, it will hold all CAD files
 for construction and printing the parts. I will also add other
-documentatory material I deem interesting.
+documentary material I deem interesting.
+
+For more details, please read my blog articles about the WeirdCube:
+
+- https://m8geil.de/posts/weirdcube-1/
+- https://m8geil.de/posts/weirdcube-2/
+- https://m8geil.de/posts/weirdcube-3/
 
 ## License
 
