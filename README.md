@@ -10,6 +10,8 @@ For more details, please read my blog articles about the WeirdCube:
 - https://m8geil.de/posts/weirdcube-1/
 - https://m8geil.de/posts/weirdcube-2/
 - https://m8geil.de/posts/weirdcube-3/
+- https://m8geil.de/posts/weirdcube-4/
+- https://m8geil.de/posts/weirdcube-5/
 
 ## License
 
